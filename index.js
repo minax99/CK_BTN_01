@@ -140,10 +140,10 @@ const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream
             console.log('Plugins installed ✅')
             console.log('Bot connected ✅')
 await conn.sendMessage(config.OWNER_NUMBER + "@s.whatsapp.net", {
-text: "*🎬 DILSHAN MD  successfully connected* ✓\n\n\n> ◦ *Official GitHub* - ```https://github.com/VajiraTech```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*🎬 DILSHAN MD ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • DILSHAN*",
+text: "*🎬 DILSHAN MD V1 successfully connected* ✓\n\n\n> ◦ *Official GitHub* - ```https://github.com/VajiraTech```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*🎬 DILSHAN MD ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • DILSHAN*",
 contextInfo: {
 externalAdReply: {
-title: "🎬 DILSHAN MD 🎬\nSuccessfully Connected !",	
+title: "🎬 DILSHAN MD V1 🎬\nSuccessfully Connected !",	
 thumbnailUrl: 'https://files.catbox.moe/khqeb9.jpg',
 sourceUrl: "",
 mediaType: 1,
