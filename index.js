@@ -677,9 +677,9 @@ events.commands.map(async (command) => {
 }
 
 app.get("/", (req, res) => {
-res.send("📟 chama md successfully!");
+res.send("📟 dilshan md successfully!");
 });
-app.listen(port, () => console.log(`chama Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`dilshan Server listening on port http://localhost:${port}`));
 
 setTimeout(() => {
 connectToWA()
