@@ -140,10 +140,10 @@ const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream
             console.log('Plugins installed ✅')
             console.log('Bot connected ✅')
 await conn.sendMessage(config.OWNER_NUMBER + "@s.whatsapp.net", {
-text: "*🎬 CHAMA MD  successfully connected* ✓\n\n\n> ◦ *Official GitHub* - ```https://github.com/VajiraTech```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*🎬 CHAMA MD ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • 𝙲𝙷𝙰𝙼𝙸𝙽𝙳𝚄*",
+text: "*🎬 DILSHAN MD  successfully connected* ✓\n\n\n> ◦ *Official GitHub* - ```https://github.com/VajiraTech```\n> ◦ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴠɪᴀ ᴛʏᴘᴇ: .joinsup\n*🎬 DILSHAN MD ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴄʀᴇᴀᴛᴇᴅ ʙʏ • DILSHAN*",
 contextInfo: {
 externalAdReply: {
-title: "🎬 CHAMA MD 🎬\nSuccessfully Connected !",	
+title: "🎬 DILSHAN MD 🎬\nSuccessfully Connected !",	
 thumbnailUrl: 'https://files.catbox.moe/khqeb9.jpg',
 sourceUrl: "",
 mediaType: 1,
@@ -572,10 +572,10 @@ contextInfo: {
       serverMessageId: 127
     },
 externalAdReply: { 
-title: '☈☟𝗖𝗛𝗔𝗠𝗔 𝗠𝗗 𝗩1️⃣',
+title: '☈☟𝗗𝗜𝗟𝗦𝗛𝗔𝗡 𝗠𝗗 𝗩1️⃣',
 body: 'ᴀ ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ',
 mediaType: 1,
-sourceUrl: "https://wa.me/94773024361" ,
+sourceUrl: "https://wa.me/94772194789" ,
 thumbnailUrl: 'https://files.catbox.moe/khqeb9.jpg' ,
 renderLargerThumbnail: false,
 showAdAttribution: true
